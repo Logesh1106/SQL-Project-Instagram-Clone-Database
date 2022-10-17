@@ -19,9 +19,14 @@ It is used to perform data analysis for real world business related questions an
 7.FIND THE USERS WHO HAVE LIKED EVERY SINGLE PHOTO ON THE SITE
 
 WHY THIS PROJECT:
+
 Complex database schemas.
+
 It deals with all three database relationship types.
+
 Deals with multiple joins.
+
 Usage of aggregate and windows functions.
+
 Run complex queries using CTE and subquery.
 
