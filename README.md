@@ -1,32 +1,27 @@
 # SQL-Projects
 
-MySQL project which is a cloned mimic version of Instagram database. 
-It is used to perform data analysis for real world business related questions and scenarios such as
+The Instagram Clone Database SQL project is a replica of the popular photo-sharing app's database designed for conducting data analysis for various business-related inquiries. This project offers several valuable learning opportunities, including:
+
+Understanding complex database structures.
+Working with all three types of database relationships.
+Practicing multiple join techniques.
+Running intricate queries utilizing Common Table Expressions (CTE) and subqueries.
 
 
-1.FINDING 5 OLDEST USERS
+•	Finding 5 oldest users
 
-2.FIND THE WEEKDAY WITH THE MOST USER REGISTRAION
+•	Find the weekday with the most user registraion
 
-3.FIND THE USERS WHO HAVE NEVER POSTED A PHOTOS
+•	Find the users who have never posted a photos
 
-4.FIND USER WHO CAN GET MOST LIKES ON SINGLE PHOTO
+•	Find user who can get most likes on single photo
 
-5.CACULATE AVERGAE NUMBER OF PHOTOS PER USER
+•	Caculate avergae number of photos per user
 
-6.TOP 5 MOST COMMONLY USED HASHTAGS
+•	Top 5 most commonly used hashtags
 
-7.FIND THE USERS WHO HAVE LIKED EVERY SINGLE PHOTO ON THE SITE
+•	Find the users who have liked every single photo on the site
 
-WHY THIS PROJECT:
 
-Complex database schemas.
 
-It deals with all three database relationship types.
-
-Deals with multiple joins.
-
-Usage of aggregate and windows functions.
-
-Run complex queries using CTE and subquery.
 
