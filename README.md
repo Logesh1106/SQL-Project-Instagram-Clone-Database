@@ -3,10 +3,15 @@
 The Instagram Clone Database SQL project is a replica of the popular photo-sharing app's database designed for conducting data analysis for various business-related inquiries. This project offers several valuable learning opportunities, including:
 
 Understanding complex database structures.
+
 Working with all three types of database relationships.
+
 Practicing multiple join techniques.
+
 Running intricate queries utilizing Common Table Expressions (CTE) and subqueries.
 
+
+--------------------------------------------------------------------------------------------
 
 •	Finding 5 oldest users
 
